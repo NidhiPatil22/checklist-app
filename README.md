@@ -9,7 +9,7 @@ Website URL- https://dailyplanner-lovat.vercel.app/
 <img width="948" height="434" alt="image" src="https://github.com/user-attachments/assets/5dbeb513-6952-4c8d-a1f6-5c70d129f2b5" />
 <img width="644" height="439" alt="image" src="https://github.com/user-attachments/assets/88589b86-b3db-4e9a-8e77-b84e8c719b9d" />
 
-🎀 ## Features
+ ## Features 🎀
 
 - Add tasks with high, medium, or low priority.
 - Mark tasks complete, update their priority, or remove them.
