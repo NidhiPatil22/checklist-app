@@ -1,6 +1,6 @@
-# Daily Planner
+# Daily Planner 🌷
 
-A calm, simple daily checklist and self-care planner built with React and Vite. Track the things you need to do, how you feel, and the small details that make up your day.
+A calm, simple daily checklist and self-care planner built with React and Vite. Track the things you need to do, how you feel, and the small details that make up your day. ☀️
 
 Website URL- https://dailyplanner-lovat.vercel.app/ 
 <img width="950" height="467" alt="image" src="https://github.com/user-attachments/assets/d5947e0d-4806-45f5-941e-f1d1f316c8e2" />
@@ -8,7 +8,7 @@ Website URL- https://dailyplanner-lovat.vercel.app/
 <img width="948" height="434" alt="image" src="https://github.com/user-attachments/assets/5dbeb513-6952-4c8d-a1f6-5c70d129f2b5" />
 <img width="644" height="439" alt="image" src="https://github.com/user-attachments/assets/88589b86-b3db-4e9a-8e77-b84e8c719b9d" />
 
-## Features
+🎀 ## Features
 
 - Add tasks with high, medium, or low priority.
 - Mark tasks complete, update their priority, or remove them.
@@ -16,7 +16,7 @@ Website URL- https://dailyplanner-lovat.vercel.app/
 - Record sleep hours and how rested you feel.
 - Track water one glass at a time with unlimited `+` increments.
 - Record workouts, exercise minutes, and steps.
-- Keep gratitude notes, general notes, and plans for tomorrow.
+- Keep gratitude notes, general notes, and plans for tomorrow. 
 - Track meals, snacks, money in, and money out.
 - Navigate between today and previous dates.
 - Review saved days in the history view.
